@@ -1,6 +1,7 @@
 # Welcome to Remix!
 
 - 📖 [Remix docs](https://remix.run/docs)
+- Using Remix to build my portfolio.
 
 ## Development
 
