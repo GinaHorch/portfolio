@@ -1,0 +1,1 @@
+import{j as e}from"./jsx-runtime-56DGgGmo.js";import{H as t,A as s,F as r}from"./Footer-CDoTu62P.js";const a=()=>[{title:"Gina's Projects"},{name:"description",content:"Welcome to Gina's Projects!"}];function i(){return e.jsxs(e.Fragment,{children:[e.jsx(t,{}),e.jsx("main",{children:e.jsx(s,{})}),e.jsx(r,{})]})}export{i as default,a as meta};

@@ -20,3 +20,14 @@ export default {
   },
   plugins: [],
 } satisfies Config;
+
+module.exports = {
+  content: [
+    './src/**/*.{html,js,ts,jsx,tsx}', // Adjust paths based on your project structure
+    './public/index.html', // Include HTML files if needed
+  ],
+  theme: {
+    extend: {}, // Add custom theme modifications here if needed
+  },
+  plugins: [], // Add Tailwind plugins here if needed
+};
